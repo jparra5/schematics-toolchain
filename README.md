@@ -1,4 +1,4 @@
-# IBM Schematics Terraform Template
+# IBM Schematics Terraform Template 
 
 This repo contains an Tekton template for automating workflow with [IBM Cloud Schematics](http://cloud.ibm.com/schematics/), a service for managing infrastructure as code.  This template will configure a DevOps toolchain that will give you the option to invoke a delivery pipeline to update infrastructure automatically using the Terraform template's git repo.  
 
